@@ -1,0 +1,5 @@
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\DotNet\DotNet.LinkedList\bin\Debug\DotNet.LinkedList.exe.config
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\DotNet\DotNet.LinkedList\bin\Debug\DotNet.LinkedList.exe
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\DotNet\DotNet.LinkedList\bin\Debug\DotNet.LinkedList.pdb
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\DotNet\DotNet.LinkedList\obj\Debug\DotNet.LinkedList.exe
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\DotNet\DotNet.LinkedList\obj\Debug\DotNet.LinkedList.pdb

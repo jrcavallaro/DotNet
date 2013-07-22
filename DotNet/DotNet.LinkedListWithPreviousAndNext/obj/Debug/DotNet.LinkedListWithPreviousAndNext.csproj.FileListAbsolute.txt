@@ -1,0 +1,6 @@
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\DotNet\DotNet.LinkedListWithPreviousAndNext\bin\Debug\DotNet.LinkedListWithPreviousAndNext.exe.config
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\DotNet\DotNet.LinkedListWithPreviousAndNext\bin\Debug\DotNet.LinkedListWithPreviousAndNext.exe
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\DotNet\DotNet.LinkedListWithPreviousAndNext\bin\Debug\DotNet.LinkedListWithPreviousAndNext.pdb
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\DotNet\DotNet.LinkedListWithPreviousAndNext\obj\Debug\DotNet.LinkedListWithPreviousAndNext.csprojResolveAssemblyReference.cache
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\DotNet\DotNet.LinkedListWithPreviousAndNext\obj\Debug\DotNet.LinkedListWithPreviousAndNext.exe
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\DotNet\DotNet.LinkedListWithPreviousAndNext\obj\Debug\DotNet.LinkedListWithPreviousAndNext.pdb

@@ -1,0 +1,100 @@
+﻿@section scripts
+{
+	<script type="text/javascript">
+
+		$(document).ready(function() {
+
+			$("#search").click(function() {
+
+				// JSON
+				$("#employees").empty();
+				var jqxhr =
+					$.getJSON("api/employees", function() {
+					})
+						.done(function(data) {
+							$.each(data, function(i, employee) {
+								var content = employee.Id + ' - ' + employee.Name + ' - ' + employee.Department;
+								$("#employees").append($('<li/>', { text: content }));
+							});
+						})
+						.fail(function() { console.log("error"); });
+
+				// XML
+				$("#employees2").empty();
+				//url: http://localhost:60229/api/Employees/
+				$.ajax({
+					type: "GET",
+					url: "api/employees",
+					dataType: "xml",
+					success: function(xml) {
+						$(xml).find("Employee").each(function() {
+							$("#employees").append($('<li/>', {
+								text: $(this).find("Id").text() + ' = ' +
+									$(this).find("Name").text() + ' = ' +
+									$(this).find("Department").text()
+							}));
+						});
+					},
+					error: function() {
+						alert('Could not retrieve XML result.');
+					}
+				});
+			});
+
+			$("#save").click(function() {
+
+				// Add record
+				$.ajax({
+					type: "POST",
+					url: "api/employees",
+					dataType: "json",
+					data: '{"Id": "'				+ $("#id").val()
+							+ '", "Name": "'		+ $("#name").val()
+						    + '", "Department": "'	+ $("#department").val() + '"}',
+					success: function () {
+						alert('Added new record successfully.');
+					},
+					error: function() {
+						alert('Could not retrieve XML result.');
+					}
+				});
+			});
+			
+			//
+		});
+
+	</script>
+}
+<br/>
+
+<div>
+	<div>
+		<h1>Listing</h1>
+		<input id="search" type="button" value="Get" />
+	</div>
+
+	<div>
+		One
+		<ul id="employees" />
+	</div>
+		
+	<div>
+		Two
+		<ul id="employees2"></ul>
+	</div>
+	
+	<hr/>
+	<div>
+		<h2>Add a New Employee</h2>
+		Id: <input type="text" id="id" /><br/>
+		Name: <input type="text" id="name" /><br/>
+		Department: <input type="text" id="department" />
+		<input type="button" id="save" value="Save" />
+	</div>
+	<div>
+		Added and Retrieved:
+		<ul id="employee3" />
+	</div>
+
+</div>
+

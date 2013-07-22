@@ -1,0 +1,6 @@
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\LinqExamples\ReturnMaxEmployeesPerManager\bin\Debug\ReturnMaxEmployeesPerManager.exe.config
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\LinqExamples\ReturnMaxEmployeesPerManager\bin\Debug\ReturnMaxEmployeesPerManager.exe
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\LinqExamples\ReturnMaxEmployeesPerManager\bin\Debug\ReturnMaxEmployeesPerManager.pdb
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\LinqExamples\ReturnMaxEmployeesPerManager\obj\Debug\ReturnMaxEmployeesPerManager.csprojResolveAssemblyReference.cache
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\LinqExamples\ReturnMaxEmployeesPerManager\obj\Debug\ReturnMaxEmployeesPerManager.exe
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\LinqExamples\ReturnMaxEmployeesPerManager\obj\Debug\ReturnMaxEmployeesPerManager.pdb

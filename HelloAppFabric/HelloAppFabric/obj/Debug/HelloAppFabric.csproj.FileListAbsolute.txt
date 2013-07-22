@@ -1,0 +1,6 @@
+c:\users\rcavalla\documents\visual studio 2012\Projects\HelloAppFabric\HelloAppFabric\bin\Debug\HelloAppFabric.exe.config
+c:\users\rcavalla\documents\visual studio 2012\Projects\HelloAppFabric\HelloAppFabric\bin\Debug\HelloAppFabric.exe
+c:\users\rcavalla\documents\visual studio 2012\Projects\HelloAppFabric\HelloAppFabric\bin\Debug\HelloAppFabric.pdb
+c:\users\rcavalla\documents\visual studio 2012\Projects\HelloAppFabric\HelloAppFabric\obj\Debug\HelloAppFabric.csprojResolveAssemblyReference.cache
+c:\users\rcavalla\documents\visual studio 2012\Projects\HelloAppFabric\HelloAppFabric\obj\Debug\HelloAppFabric.exe
+c:\users\rcavalla\documents\visual studio 2012\Projects\HelloAppFabric\HelloAppFabric\obj\Debug\HelloAppFabric.pdb

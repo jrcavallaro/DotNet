@@ -1,0 +1,5 @@
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\DotNet\DotNet.SortedListvsDictionary\bin\Debug\DotNet.SortedListvsDictionary.exe.config
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\DotNet\DotNet.SortedListvsDictionary\bin\Debug\DotNet.SortedListvsDictionary.exe
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\DotNet\DotNet.SortedListvsDictionary\bin\Debug\DotNet.SortedListvsDictionary.pdb
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\DotNet\DotNet.SortedListvsDictionary\obj\Debug\DotNet.SortedListvsDictionary.exe
+C:\Users\rcavalla\Documents\Visual Studio 2012\Projects\DotNet\DotNet.SortedListvsDictionary\obj\Debug\DotNet.SortedListvsDictionary.pdb

@@ -1,0 +1,5 @@
+c:\users\rcavalla\documents\visual studio 2012\Projects\BackboneJS.Example01\BackboneJS.Example01\bin\BackboneJS.Example01.dll
+c:\users\rcavalla\documents\visual studio 2012\Projects\BackboneJS.Example01\BackboneJS.Example01\bin\BackboneJS.Example01.pdb
+c:\users\rcavalla\documents\visual studio 2012\Projects\BackboneJS.Example01\BackboneJS.Example01\obj\Debug\BackboneJS.Example01.csprojResolveAssemblyReference.cache
+c:\users\rcavalla\documents\visual studio 2012\Projects\BackboneJS.Example01\BackboneJS.Example01\obj\Debug\BackboneJS.Example01.dll
+c:\users\rcavalla\documents\visual studio 2012\Projects\BackboneJS.Example01\BackboneJS.Example01\obj\Debug\BackboneJS.Example01.pdb
